@@ -1,4 +1,4 @@
-def mean_choice(choice = "meat")
+def meal_choice(choice = "meat")
   choice
 end
 
